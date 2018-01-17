@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DltLib", "DltLib\DltLib.csproj", "{04560510-6DCF-4CE7-99F7-B4FF363DAB4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DltLib.Tests", "DltLib.Tests\DltLib.Tests.csproj", "{CF9980FD-7E20-4D42-A744-3854F538FFA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04560510-6DCF-4CE7-99F7-B4FF363DAB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04560510-6DCF-4CE7-99F7-B4FF363DAB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04560510-6DCF-4CE7-99F7-B4FF363DAB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9980FD-7E20-4D42-A744-3854F538FFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9980FD-7E20-4D42-A744-3854F538FFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9980FD-7E20-4D42-A744-3854F538FFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9980FD-7E20-4D42-A744-3854F538FFA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
