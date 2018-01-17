@@ -37,6 +37,7 @@
   <ItemGroup>
     <Compile Include="Constants\DltConstants.cs" />
     <Compile Include="Data\DltPacket.cs" />
+    <Compile Include="Exceptions\DltLibException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
