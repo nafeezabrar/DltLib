@@ -49,7 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\ControlByteTest.cs" />
+    <Compile Include="DltDataGeneratorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DltDataParserTest.cs" />
     <Compile Include="Util\ByteUtilityTest.cs" />
     <Compile Include="Util\ChecksumCalculatorTest.cs" />
     <Compile Include="Util\DltLibAssert.cs" />
