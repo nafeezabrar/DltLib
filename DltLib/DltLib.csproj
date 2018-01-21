@@ -36,6 +36,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\DltConstants.cs" />
+    <Compile Include="Data\ControlByte.cs" />
     <Compile Include="Data\DltPacket.cs" />
     <Compile Include="Exceptions\DltLibException.cs" />
     <Compile Include="Exceptions\FrameChecksumMismatchedException.cs" />
