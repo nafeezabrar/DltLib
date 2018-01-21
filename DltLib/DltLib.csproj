@@ -39,6 +39,7 @@
     <Compile Include="Data\DltPacket.cs" />
     <Compile Include="Exceptions\DltLibException.cs" />
     <Compile Include="Exceptions\FrameChecksumMismatchedException.cs" />
+    <Compile Include="Exceptions\InvalidControlByteException.cs" />
     <Compile Include="Exceptions\InvalidDltDataException.cs" />
     <Compile Include="Exceptions\InvalidFrameStartByteException.cs" />
     <Compile Include="Exceptions\InvalidFrameStopByteException.cs" />
